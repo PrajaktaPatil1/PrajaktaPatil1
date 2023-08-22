@@ -14,7 +14,7 @@ I Have completed Data Science Immersive Bootcamp Program by [Analytics vidhya](h
 ## Highlights
 - 500+ hours of coursework
 - 10 coding assignments
-- 4 projects (Web scraping, EDA, ML, DL)
+- 4 projects (EDA, ML, DL,PowerBI)
 
 ## Current Focus
 - 🔭 I’m currently working on NLP projects
