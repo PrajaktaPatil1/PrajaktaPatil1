@@ -1,5 +1,5 @@
 ### Hi there 👋
-**A Passionate Data Science Practitioner
+## A Passionate Data Science Practitioner
 
 
 <!--
