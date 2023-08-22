@@ -2,7 +2,7 @@
 ## A Passionate Data Science Practitioner
 
 
-<!--
+
 I Have completed Data Science Immersive Bootcamp Program by [Analytics vidhya](https://github.com/analyticsvidhya)
 ## Courses
 - Python Programming
@@ -31,4 +31,4 @@ I Have completed Data Science Immersive Bootcamp Program by [Analytics vidhya](h
 - LinkedIn: [Your LinkedIn Profile](linkedin.com/in/prajakta-patil-3879721bb)
 - GitHub: [Your GitHub Profile](https://github.com/PrajaktaPatil1)
 
---!>
+
