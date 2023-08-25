@@ -25,7 +25,7 @@ I Have completed Data Science Immersive Bootcamp Program by [Analytics vidhya](h
 
 ## Contact
 - 📫 How to reach me: [prajaktapatil328@gmail.com](mailto:prajaktapatil328@gmail.com)
-- 📄 Check out my resume [here](link-to-your-resume)
+- 📄 Check out my resume [here](https://resume.io/r/ecqrsKUuG)
 
 ## Connect with Me
 - LinkedIn: [Your LinkedIn Profile](linkedin.com/in/prajakta-patil-3879721bb)
